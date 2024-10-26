@@ -1,4 +1,5 @@
-![Profile Banner](blob:https://chatgpt.com/d4e488bc-24b8-4164-81fb-f1274cabc665)
+![Profile Banner](![Uploading image.png…]()
+)
 
 ## 👋 Hi, I’m @saidnachid
 👀 I’m interested in building user-friendly, visually appealing web applications and learning the latest trends in frontend development.
