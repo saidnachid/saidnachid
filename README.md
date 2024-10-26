@@ -1,4 +1,4 @@
-<img src="https://github.com/saidnachid/github-header-image.png">
+<img src="https://github.com/saidnachid/saidnachid/github-header-image.png" >
 <h1 align="center">Hi 👋, I'm said nachid</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 <img alt="coding" align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
