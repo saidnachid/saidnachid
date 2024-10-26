@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/saidnachid/saidnachid/main/profile-banner.webp
+<img width="100%" src="https://github.com/saidnachid/saidnachid/main/profile-banner.webp
 ">
 <h1 align="center">Hi 👋, I'm said nachid</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
