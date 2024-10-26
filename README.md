@@ -1,4 +1,4 @@
-<img width="100%" src="https://github-profile-page-creator.netlify.app/profile-banner.webp" alt="my banner">
+<img width="100%" src="https://github.com/saidnachid/saidnachid/github-profile-page-creator.netlify.app/profile-banner.webp" alt="my banner">
 <h1 align="center">Hi 👋, I'm said nachid</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 <img alt="coding" align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
