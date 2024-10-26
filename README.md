@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm said nachid</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-<img alt="coding" align="center" width="500" src="https://i0.wp.com/nulpointerexception.com/wp-content/uploads/2024/02/8219f-code-typing-1.gif?resize=500%2C500&ssl=1">
+<img alt="coding" align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidnachid&label=Profile%20views&color=0e75b6&style=flat" alt="saidnachid" /> </p>
 
