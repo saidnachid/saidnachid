@@ -13,8 +13,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saidnachid&show_icons=true&theme=radical)
 
 ## 🔥 Featured Projects
-- [Project 1: Interactive UI Design](https://github.com/saidnachid/project1) - An interactive and accessible user interface design.
-- [Project 2: Customizable Task Management App](https://github.com/saidnachid/project2) - A task management app with customizable features.
+- [Project 1: Friend Request Interface](https://github.com/saidnachid/friend-request) - An interactive and accessible user interface design.
 
 ## ⚡ Fun Facts
 - I enjoy making visual content accessible to all.
