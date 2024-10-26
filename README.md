@@ -1,5 +1,3 @@
-![Profile Banner](https://files.oaiusercontent.com/file-vtz9Qh88hm60dkppNnnjNzij?se=2024-10-26T12%3A05%3A26Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D3fe4190a-e591-47af-93cc-6ef9be1efa6f.webp&sig=aBhIlmh9HHxRDsevn6fVNm3HBkmahylVFb%2BQvOazKfE%3D)
-
 ## 👋 Hi, I’m @saidnachid
 👀 I’m interested in building user-friendly, visually appealing web applications and learning the latest trends in frontend development.
 🌱 I’m currently learning advanced JavaScript frameworks like React and Vue, as well as improving my CSS animations and design skills.
