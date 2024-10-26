@@ -1,5 +1,4 @@
-![Profile Banner](![Uploading image.png…]()
-)
+![Profile Banner](https://your-image-link.com/banner.png)
 
 ## 👋 Hi, I’m @saidnachid
 👀 I’m interested in building user-friendly, visually appealing web applications and learning the latest trends in frontend development.
