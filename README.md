@@ -3,7 +3,7 @@
 </div>  
   
 # 💫 About Me:
-🌱 I’m currently learning **React Vue**<br><br>👨‍💻 All of my projects are available at [https://github.com/saidnachid](https://github.com/saidnachid)<br><br>💬 Ask me about **JavaScript**<br><br>📫 How to reach me **nshydsyd@gmail.com**<br><br>⚡ Fun fact **I’m passionate about coding and learning new technologies.** 
+🌱 I’m currently learning **React Vue**<br><br>💬 Ask me about **JavaScript**<br><br>📫 How to reach me **nshydsyd@gmail.com**<br><br>⚡ Fun fact **I’m passionate about coding and learning new technologies.** 
 
 
 ## 🌐 Socials:
