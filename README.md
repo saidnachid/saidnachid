@@ -14,13 +14,13 @@ I'm a passionate frontend developer with a love for creating innovative web solu
 
 ## Projects
 
-### [Project Name 1]
+### [bussiness agency website]
 A brief description of your project. Highlight key features and technologies used.
 - **Tech Stack:** HTML, CSS, JavaScript
 - [GitHub Repository](https://github.com/saidnachid/business-agency-website)
 - [Live Demo](https://saidnachid.github.io/business-agency-website/)
 
-### [Project Name 2]
+### [travel website]
 A brief description of your project. Highlight key features and technologies used.
 - **Tech Stack:** HTML, CSS, JavaScript
 - [GitHub Repository](https://github.com/saidnachid/travel-website)
