@@ -15,13 +15,14 @@ I'm a passionate frontend developer with a love for creating innovative web solu
 ## Projects
 
 ### [Business Agency Website]
-A brief description of your project. Highlight key features and technologies used.
+Responsive business agency website,
+Responsive for all devices, build using HTML, CSS, and JavaScript.
 - **Tech Stack:** HTML, CSS, JavaScript
 - [GitHub Repository](https://github.com/saidnachid/business-agency-website)
 - [Live Demo](https://saidnachid.github.io/business-agency-website/)
 
 ### [Travel Website]
-A brief description of your project. Highlight key features and technologies used.
+Responsive travel website using HTML CSS JavaScript.
 - **Tech Stack:** HTML, CSS, JavaScript
 - [GitHub Repository](https://github.com/saidnachid/travel-website)
 - [Live Demo](https://saidnachid.github.io/travel-website/)
