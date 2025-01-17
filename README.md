@@ -1,7 +1,7 @@
 
 # Hi there, I'm Said Nachid! 👋
 
-![Animated Cover](https://your-image-url.com/animated-cover.gif)
+![Animated Cover](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdubDZieDdqZjlsajQ2dHB1aTNpbjFjcHJucTV1NXRkd3Vid2FlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## About Me
 
