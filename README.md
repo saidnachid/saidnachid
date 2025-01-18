@@ -33,4 +33,3 @@ Feel free to reach out to me for collaboration, questions, or just to connect!
 
 - 📧 Email: [nshysyd@gmail.com](mailto:nshysyd@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/said-nachid-a57229327](https://www.linkedin.com/in/said-nachid-a57229327/)
-```
